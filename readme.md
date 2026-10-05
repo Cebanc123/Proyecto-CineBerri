@@ -1,0 +1,1 @@
+El proyecto es seguir creando una pagina web que estaba desarrollando una programadora, para un cine que va abrir en el centro de donostia. El cine se va llamar CineBerri y la pagina web va a servir para informar a la gente sobre el cine. Se puede abrir poniendo informacion adecuada del cine y gestionando bien la pagina web.
