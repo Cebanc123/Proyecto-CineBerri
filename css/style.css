@@ -293,3 +293,30 @@ font-family: Georgia, serif;
     color: white;
     line-height: 1.6;
 }
+/* ---------- UBICACIÓN ---------- */
+.ubicación-page h2 {
+color: #f5c542;
+font-family: Georgia, serif;
+font-size: 2.5rem;
+text-align: center;
+margin-bottom: 15px;
+}
+
+.ubicación-intro {
+text-align: center;
+font-size: 1.1rem;
+margin-bottom: 35px;
+}
+
+.ubicación-map {
+font-size: 1rem;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.ubicación-map p {
+    font-family: Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    color:#f5c542
+}
